@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.scroll-row.data-v-57280228 {
+  height: 300rpx;
+}
+.scroll-row-item.data-v-57280228 {
+  width: 300rpx;
+  height: 100%;
+  background-color: gray;
+  border: solid 1px;
+}
+.demo-warter.data-v-57280228 {
+  border-radius: 8px;
+  margin: 5px;
+  background-color: #ffffff;
+  padding: 8px;
+  position: relative;
+}
+.u-close.data-v-57280228 {
+  position: absolute;
+  top: 32rpx;
+  right: 32rpx;
+}
+.demo-image.data-v-57280228 {
+  width: 100%;
+  border-radius: 4px;
+}
+.demo-title.data-v-57280228 {
+  font-size: 30rpx;
+  margin-top: 5px;
+  color: #303133;
+}
+.demo-tag.data-v-57280228 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-top: 5px;
+}
+.demo-tag-owner.data-v-57280228 {
+  background-color: #fa3534;
+  color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 4rpx 14rpx;
+  border-radius: 50rpx;
+  font-size: 20rpx;
+  line-height: 1;
+}
+.demo-tag-text.data-v-57280228 {
+  border: 1px solid #ff7410;
+  color: #ff7410;
+  margin-left: 10px;
+  border-radius: 50rpx;
+  line-height: 1;
+  padding: 4rpx 14rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-radius: 50rpx;
+  font-size: 20rpx;
+}
+.demo-price.data-v-57280228 {
+  font-size: 30rpx;
+  color: #fa3534;
+  margin-top: 5px;
+}
+.demo-shop.data-v-57280228 {
+  font-size: 22rpx;
+  color: #909399;
+  margin-top: 5px;
+}
+
